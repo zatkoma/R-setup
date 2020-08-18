@@ -27,11 +27,11 @@ library(tidyverse)
 ### Viz
 
 ```R
-install.packages(c("ggplot2"))
+install.packages(c("ggplot2", "gridExtra"))
 ```
 
 ```R
-library(ggplot2)
+library(ggplot2, "gridExtra")
 ```
 
 -------
